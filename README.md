@@ -1,13 +1,10 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Public URL: https://nft-starter-project.aniketprajapat5.repl.co/
 
-Try running some of the following tasks:
+UI source hosted on replit:
+https://replit.com/@AniketPrajapat5/nft-starter-project#src/App.jsx
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+This project mint's NFT on Goerli testnet.
+It generates a fairly random image, encodes it and saves it on blockchain.
+This will be optimized later to use IPFS(pinata)
