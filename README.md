@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Mint NFT
 
 Public URL: https://nft-starter-project.aniketprajapat5.repl.co/
 
